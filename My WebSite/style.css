@@ -1,0 +1,47 @@
+.UC{
+  margin-top: 150px;
+}
+/*.bodyindex1 {
+    font-family: helvetica;
+    background-color: #00FF8F;
+}
+h3{
+  text-align: center;
+}
+.onair {
+  font-size: 35px;
+  padding: 1px ;
+  border: solid 5px black;
+  height: 60px;
+  width: 150px;
+  color: white;
+  background-color: crimson;
+}
+.immagine1 {
+  width: 350px;
+  height: 350px;
+  padding: 10px;
+  border: solid 5px black;
+  background: linear-gradient(45deg, purple, Cyan);
+  border-radius: 50px;
+}
+.immagine2 {
+  width: 300px;
+  height: 350px;
+  padding: 10px 20px 10px 20px;
+  border: solid 5px black;
+  background: linear-gradient(45deg, purple, Cyan);
+  border-radius: 50px;
+}
+.testo {
+  text-align: justify;
+  margin: 0 350px 0 350px;
+  border: 2px solid blue;
+  border-radius: 5px;
+  background-color: #00D8FF;
+  padding: 5px;
+}
+.bodyonair {
+font-family: helvetica;
+background-color: #FF8300;
+}
